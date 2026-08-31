@@ -89,20 +89,6 @@ isw-2026-4k3-g2
 - **G2**: Grupo 2
 - **K**: Referencia a la carrera de grado Ingeniería en Sistemas de Información (ej: 4K3)
 
-## Convención de nombrado de commits
-
-Para mantener un historial de cambios claro y fácil de rastrear, adoptamos un formato de commits basado en un prefijo que indica el tipo de cambio realizado, seguido de una breve descripción en modo pasado.
-
-| Prefijo    | Se usa para                                                        | Ejemplo                                                          |
-| ---------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| `feat`     | Agregar un archivo, directorio o contenido nuevo                    | `feat: agregado Resumen-1-2026.pdf`                                |
-| `docs`     | Crear o modificar documentación del propio repositorio              | `docs: modificada Estructura_del_repositorio.pdf`                  |
-| `refactor` | Reorganizar carpetas o estructura sin alterar el contenido          | `refactor: agregada carpeta Notas_de_clase/`                       |
-| `fix`      | Corregir errores en algún ítem ya subido                            | `fix: corregido error en validación del formulario`                |
-| `chore`    | Tareas de mantenimiento o configuración que no afectan contenido    | `chore: actualizado .gitignore para ignorar archivos de logs`      |
-
-Esta convención se adopta a partir de la implementación formal de la estructura del repositorio; los commits anteriores a este punto no siguen necesariamente este formato.
-
 ## Criterio de línea base
 
 Definimos una línea base sobre todo el repositorio cada vez que se corrige y valida un ítem evaluable (TPE o TPIG). Aunque el disparador es puntual, la línea base congela el estado completo del repositorio en ese momento, funcionando como punto de referencia estable para el seguimiento de cambios durante el cuatrimestre.
