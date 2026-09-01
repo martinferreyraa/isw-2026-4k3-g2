@@ -57,7 +57,7 @@ isw-2026-4k3-g2
 
 | Ítem de Configuración                                          | Regla de Nombrado          | Extensiones permitidas | Ubicación Física                                                                               | Tipo de Ítem           |
 | ---------------------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------ |
-| Bibliografía                                                      | `MB_<Nombre_Material>-<Autor>.pdf` | .pdf | isw-2026-4k3-g2/Contenido teórico/Bibliografía/                                            | Recurso de la cátedra    |
+| Bibliografía                                                      | `MB_ISW.pdf` | .pdf | isw-2026-4k3-g2/Contenido teórico/Bibliografía/                                            | Recurso de la cátedra    |
 | Notas de clase                                                    | `NOTA_<Tema>_<Fecha>.pdf`   | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Notas de clase/                 | Material Propio          |
 | Diapositivas                                                      | `PPT_<Tema>.pdf`            | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Diapositivas/                   | Recurso de la cátedra    |
 | Resumenes                                                         | `RES_<Tema>.pdf`            | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Resumenes/                      | Material Propio          |
