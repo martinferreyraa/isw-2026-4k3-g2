@@ -71,7 +71,7 @@ isw-2026-4k3-g2
 | Trabajos Prácticos - No evaluables - Entregas                    | `TPNE_<N>_<Tema>.<ext>`     | .pdf, .md, .zip, .docx, .pptx | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/No evaluables/Entregas/                     | Material Propio          |
 | Ejercicios                                                        | `Ejercicio_<N>_<Un>_<Tema>.<ext>` | .pdf, .docx | isw-2026-4k3-g2/Contenido Práctico/Ejercicios/                                              | Material Propio          |
 | Programa de la Asignatura                                         | `PA_ISW2026.pdf`            | .pdf | isw-2026-4k3-g2/Programa de la Asignatura/                                                        | Recurso de la cátedra    |
-| Clases grabadas                                                   | `Clases_ISW.<ext>`           | .xls | isw-2026-4k3-g2/Clases grabadas/                                                                  | Recurso de la cátedra    |
+| Clases grabadas                                                   | `Clases_ISW.<ext>`           | .xlsx | isw-2026-4k3-g2/Clases grabadas/                                                                  | Recurso de la cátedra    |
 | Cronograma                                                        | `CR_ISW2026_4K3.xlsx`       | .xlsx | isw-2026-4k3-g2/Cronograma/                                                                       | Recurso de la cátedra    |
 
 ## Glosario
