@@ -118,7 +118,7 @@ Un ítem se considera parte de una línea base cuando:
 - Está completo, en su versión definitiva y sin marcas de borrador.
 - Respeta el formato y ubicación definidos para su tipo de ítem.
 
-Primera línea base: dado que al momento de esta entrega aún no hay TPs evaluables corregidos por la cátedra, se marca una línea base inicial que consolida la estructura del repositorio y los ítems disponibles hasta la fecha, correspondiente a la entrega del propio TP de Gestión de Configuración de Software.
+**Primera línea base**: dado que al momento de esta entrega aún no hay TPs evaluables corregidos por la cátedra, se marca una línea base inicial que consolida la estructura del repositorio y los ítems disponibles hasta la fecha, correspondiente a la entrega del propio TP de Gestión de Configuración de Software.
 
 ### Convención de tags
 
