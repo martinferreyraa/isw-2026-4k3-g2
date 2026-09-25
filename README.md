@@ -48,31 +48,27 @@ isw-2026-4k3-g2
 │   │       ├── Enunciados
 │   │       └── Entregas
 │   └── Ejercicios
-├── Programa de la Asignatura
-├── Clases grabadas
-└── Cronograma
+└── Información Útil de la Materia
 ```
 
 ## Configuración del repositorio
 
 | Ítem de Configuración                                          | Regla de Nombrado          | Extensiones permitidas | Ubicación Física                                                                               | Tipo de Ítem           |
 | ---------------------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------ |
-| Bibliografía                                                      | `MB_ISW.pdf` | .pdf | isw-2026-4k3-g2/Contenido teórico/Bibliografía/                                            | Recurso de la cátedra    |
+| Bibliografía                                                      | `MB_<Tema>.pdf` | .pdf | isw-2026-4k3-g2/Contenido teórico/Bibliografía/                                            | Recurso de la cátedra    |
 | Notas de clase                                                    | `NOTA_<Tema>_<Fecha>.pdf`   | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Notas de clase/                 | Material Propio          |
 | Diapositivas                                                      | `PPT_<Tema>.pdf`            | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Diapositivas/                   | Recurso de la cátedra    |
 | Resumenes                                                         | `RES_<Tema>.pdf`            | .pdf | isw-2026-4k3-g2/Contenido teórico/Material de clase/Parcial \<N\>/Resumenes/                      | Material Propio          |
 | Plantillas                                                        | `TEMPLATE_<Nombre>.<ext>`   | .docx, .xlsx | isw-2026-4k3-g2/Contenido Práctico/Plantillas/                                                    | Recurso de la cátedra    |
 | Trabajos Prácticos - Evaluables - Enunciados                     | `TPE_<N>_<Tema>.<ext>`      | .pdf, .md | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Evaluables/Enunciados/                      | Recurso de la cátedra    |
-| Trabajos Prácticos - Evaluables - Entregas                       | `TPE_<N>_<Tema>.<ext>`      | .pdf, .md, .zip, .docx, .pptx | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Evaluables/Entregas/                        | Material Propio          |
+| Trabajos Prácticos - Evaluables - Entregas                       | `TPE_<N>_<Tema>.<ext>`      | .pdf, .md, .docx, .pptx | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Evaluables/Entregas/                        | Material Propio          |
 | Trabajos Prácticos - Evaluables - Devoluciones                   | `TPE_<N>_<Tema>_FB.<ext>`   | .md, .pdf, .docx, .png | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Evaluables/Devoluciones/                    | Material propio    |
 | Trabajos Prácticos - Investigación Grupal - TEDx                 | `TPIG_<TEDx\|Poster>_<Tema>.<ext>` | .pdf, .ppt | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Investigación Grupal/TEDx/            | Material Propio          |
 | Trabajos Prácticos - Investigación Grupal - Poster científico    | `TPIG_<TEDx\|Poster>_<Tema>.<ext>` | .pdf | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/Investigación Grupal/Poster científico/ | Material Propio          |
 | Trabajos Prácticos - No evaluables - Enunciados                  | `TPNE_<N>_<Tema>.<ext>`     | .pdf, .md | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/No evaluables/Enunciados/                   | Recurso de la cátedra    |
-| Trabajos Prácticos - No evaluables - Entregas                    | `TPNE_<N>_<Tema>.<ext>`     | .pdf, .md, .zip, .docx, .pptx | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/No evaluables/Entregas/                     | Material Propio          |
+| Trabajos Prácticos - No evaluables - Entregas                    | `TPNE_<N>_<Tema>.<ext>`     | .pdf, .md, .docx, .pptx | isw-2026-4k3-g2/Contenido Práctico/Trabajos Prácticos/No evaluables/Entregas/                     | Material Propio          |
 | Ejercicios                                                        | `Ejercicio_<N>_<Un>_<Tema>.<ext>` | .pdf, .docx | isw-2026-4k3-g2/Contenido Práctico/Ejercicios/                                              | Material Propio          |
-| Programa de la Asignatura                                         | `PA_ISW2026.pdf`            | .pdf | isw-2026-4k3-g2/Programa de la Asignatura/                                                        | Recurso de la cátedra    |
-| Clases grabadas                                                   | `Clases_ISW.<ext>`           | .xlsx | isw-2026-4k3-g2/Clases grabadas/                                                                  | Recurso de la cátedra    |
-| Cronograma                                                        | `CR_ISW2026_4K3.xlsx`       | .xlsx | isw-2026-4k3-g2/Cronograma/                                                                       | Recurso de la cátedra    |
+| Información Útil de la Materia                                   | `<RECURSO>_ISW.<ext>`       | .pdf, .xlsx | isw-2026-4k3-g2/Información Útil de la Materia/                                                   | Recurso de la cátedra    |
 
 ## Glosario
 
@@ -91,6 +87,7 @@ isw-2026-4k3-g2
 - **G2**: Grupo 2
 - **K**: Referencia a la carrera de grado Ingeniería en Sistemas de Información (ej: 4K3)
 - **FB**: Feedback
+- **RECURSO**: puede ser Programa de la Asignatura, Clases grabadas o Cronograma
 
 ## Convención de nombrado de commits
 
@@ -118,13 +115,13 @@ Un ítem se considera parte de una línea base cuando:
 - Está completo, en su versión definitiva y sin marcas de borrador.
 - Respeta el formato y ubicación definidos para su tipo de ítem.
 
-**Primera línea base**: dado que al momento de esta entrega aún no hay TPs evaluables corregidos por la cátedra, se marca una línea base inicial que consolida la estructura del repositorio y los ítems disponibles hasta la fecha, correspondiente a la entrega del propio TP de Gestión de Configuración de Software.
+**Nota sobre la primera línea base**: originalmente planteábamos una excepción para la primera línea base, marcándola sin que hubiese ningún ítem corregido por la cátedra, ya que asumíamos erróneamente que el TP4 de SCM se iba a corregir recién a fin de año. Esa excepción contradecía el criterio recién definido, por lo que fue eliminada: toda línea base, incluida la primera, debe cumplir los tres requisitos anteriores.
 
 ### Convención de tags
 
-Formato: `LB-<Identificador del ítem>-v<N>`
+Formato: `LB_<Hito>_<Fecha>`, con fecha en formato `DD-MM-AAAA`.
 
-Ejemplos: `LB-TP04-v1`, `LB-TP05-v2` (tras correcciones), `LB-TPIG-TEDx-v1`, `LB-Final-2026` (cierre de cuatrimestre), `LB-TPE-SCM-v1` (primera línea base, es decir entrega del TP de SCM)
+Ejemplos: `LB_TP04_15-10-2026`, `LB_TP05_20-11-2026` (tras correcciones), `LB_TPIG-TEDx_05-12-2026`, `LB_Final_20-12-2026` (cierre de cuatrimestre)
 
 ## Link al repositorio
 
