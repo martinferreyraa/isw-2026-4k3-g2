@@ -104,13 +104,13 @@ Esta convención se adopta a partir de la implementación formal de la estructur
 
 ## Criterio de línea base
 
-Definimos una línea base sobre todo el repositorio cada vez que se corrige y valida un ítem evaluable (TPE o TPIG). Aunque el disparador es puntual, la línea base congela el estado completo del repositorio en ese momento, funcionando como punto de referencia estable para el seguimiento de cambios durante el cuatrimestre.
+Definimos una línea base sobre todo el repositorio cada vez que se corrige un ítem evaluable (TPE o TPIG). Aunque el disparador es puntual, la línea base congela el estado completo del repositorio en ese momento, funcionando como punto de referencia estable para el seguimiento de cambios durante el cuatrimestre.
 
 Además, se define una línea base de cierre al finalizar el cuatrimestre, que consolide el repositorio en su totalidad más allá de correcciones pendientes.
 
 Un ítem se considera parte de una línea base cuando:
 
-- Fue corregido y aprobado por la cátedra (TPE/TPIG) o revisado y aprobado por al menos un integrante del grupo (otros ítems).
+- Fue corregido por la cátedra (TPE/TPIG), independientemente del resultado, o revisado por al menos un integrante del grupo (otros ítems).
 - Está completo, en su versión definitiva y sin marcas de borrador.
 - Respeta el formato y ubicación definidos para su tipo de ítem.
 
