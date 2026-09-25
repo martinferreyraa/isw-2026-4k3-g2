@@ -87,8 +87,7 @@ isw-2026-4k3-g2
 - **G2**: Grupo 2
 - **K**: Referencia a la carrera de grado Ingeniería en Sistemas de Información (ej: 4K3)
 - **FB**: Feedback
-- **RECURSO**: puede ser Programa de la Asignatura, Clases grabadas o Cronograma
-
+- **RECURSO**: Cualquier documento que pueda servir para el desarrollo de la materia
 ## Convención de nombrado de commits
 
 Para mantener un historial de cambios claro y fácil de rastrear, adoptamos un formato de commits basado en un prefijo que indica el tipo de cambio realizado, seguido de una breve descripción en modo pasado.
