@@ -124,6 +124,8 @@ Formato: `LB_<Hito>_<Fecha>`, con fecha en formato `DD-MM-AAAA`.
 
 Ejemplos: `LB_TP04_15-10-2026`, `LB_TP05_20-11-2026` (tras correcciones), `LB_TPIG-TEDx_05-12-2026`, `LB_Final_20-12-2026` (cierre de cuatrimestre)
 
+**Nota sobre el cambio de convención**: originalmente los tags seguían el formato `LB-<Identificador del ítem>-v<N>` (por ejemplo, `LB-TPE-SCM-v1`). Tras la corrección de la cátedra del TPE 4 (SCM), que observó que el nombre de la línea base hacía referencia a un "identificador de ítem" cuando la línea base abarca todo el repositorio, cambiamos la convención al formato actual (`LB_<Hito>_<Fecha>`). La primera línea base, `LB-TPE-SCM-v1`, fue creada antes de ese cambio y se mantiene con el formato original, ya que los tags no se renombran para preservar la trazabilidad. Todas las líneas base posteriores siguen la convención vigente.
+
 ## Link al repositorio
 
 [https://github.com/martinferreyraa/isw-2026-4k3-g2](https://github.com/martinferreyraa/isw-2026-4k3-g2)
