@@ -120,7 +120,7 @@ Un ítem se considera parte de una línea base cuando:
 
 **Nota sobre la primera línea base**: originalmente planteábamos una excepción para la primera línea base, marcándola sin que hubiese ningún ítem corregido por la cátedra, ya que asumíamos erróneamente que el TP4 de SCM se iba a corregir recién a fin de año. Esa excepción contradecía el criterio recién definido, por lo que fue eliminada: toda línea base, incluida la primera, debe cumplir los tres requisitos anteriores.
 
-**Nota sobre los TPE 6 (TDD) y TPE 7 (Dinámica SCRUM)**: nuestro criterio considera un ítem como corregido cuando recibimos la devolución por la UV. Para estos dos TPE, los docentes no realizaron la devolución ni la calificación a través de dicha plataforma, por lo que en un principio no marcamos sus líneas base, a la espera de esas devoluciones. Sin embargo, la cátedra nos comunicó las calificaciones de forma oral en clase, por lo que a partir del 04/11 tomamos esa devolución oral como criterio válido de corrección y pasamos a marcar las líneas base correspondientes.
+**Nota sobre los TPE 6 (TDD), TPE 7 (Dinámica SCRUM), TPE 10 (Kanban) y TPE 12 (Design Thinking)**: nuestro criterio considera un ítem como corregido cuando recibimos la devolución por la UV. Para estos cuatro TPE, los docentes no realizaron la devolución ni la calificación a través de dicha plataforma. En el caso de los TPE 6 y 7, en un principio no marcamos sus líneas base, a la espera de esas devoluciones. Sin embargo, la cátedra nos comunicó las calificaciones de forma oral en clase, por lo que a partir del 04/11 tomamos esa devolución oral como criterio válido de corrección y pasamos a marcar las líneas base correspondientes, incluidas las de los TPE 10 y 12.
 
 ### Convención de tags
 
